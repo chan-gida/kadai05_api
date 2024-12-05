@@ -29,5 +29,5 @@ https://chan-gida.github.io/kadai05_api/
 - [参考記事]
   - 1. https://www.webdesignleaves.com/pr/plugins/googlemap_01.html(GoogleマップAPI）
   - 2. https://paiza.hatenablog.com/entry/2021/11/04/130000（OpenMetro天気API活用）
-  - 3. Qiita Chart.jsの使い方のきほん - Qiita（Chart.jsの使い方）
+  - 3. https://qiita.com/fsd-ssk/items/f2c0faad04f690bcaed7（Chart.jsの使い方）
   - 4. https://techplay.jp/column/629（try-catch構文）
