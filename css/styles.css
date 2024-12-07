@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+#content{
+    display: flex;
+    justify-content: center;
+}
+
+#map {
+    width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
+
+#data-section {
+    width: 100%;
+    margin: 20px;
+}
+
+canvas {
+    width: 100%;
+    height: auto;
+    margin: 20px ;
+}
